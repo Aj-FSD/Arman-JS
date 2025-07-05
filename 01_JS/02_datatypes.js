@@ -5,6 +5,7 @@
 console.log(3 
     +
      3) // code readability should be high
+     console.log(3 + 3)  // if we write like this instead of the upper one the readability of code become better
 
 console.log("Hitesh")
 

@@ -5,6 +5,7 @@ var accountPassword = "aa55" // here var is only used for explain. don't use var
 let accountState; 
 
  accountEmail = "a9@gmail.com"
+ accountEmail = "a9@gmail.com"  
  accountPassword = "6698"
 accountCity = "ahmedabad"
 console.log (accountCity)

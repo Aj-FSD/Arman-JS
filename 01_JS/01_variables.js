@@ -1,6 +1,6 @@
 const accountId = "654645"
 let accountEmail = "aj@gmail.com"
-var accountPassword = "aa55" // not use var // use let 
+var accountPassword = "aa55" // here var is only used for explain. don't use var, use let instead
 
 let accountState; 
 

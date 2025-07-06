@@ -24,8 +24,8 @@ const anotherId = Symbol('123')
 
 const heros = ["shaktiman", "naagraj", "doga"];
 let myObj = {
-    name: "hitesh",
-    age: 22,
+    name: "Arman",
+    age: 17,
 }
 
 const myFunction = function(){
@@ -35,3 +35,25 @@ const myFunction = function(){
 // console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack (primitive), heap (non-primitive)
+
+let name = "Arman"
+let anothername = name 
+anothername = "shivam"
+// console.log(name);
+// console.log(anothername);
+
+let userOne = {
+email: "arman@gmail.com"
+}
+let userTwo = userOne
+userTwo.email = "arman1@gmail.com"
+ 
+// console.log(userOne.email);
+// console.log(userTwo.email);
+
+
+
+

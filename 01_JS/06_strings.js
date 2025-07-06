@@ -44,9 +44,8 @@ console.log(aboutMe.search("arman"));
 console.log(aboutMe.startsWith("my"));
 console.log(aboutMe.startsWith("arman"));
 console.log(aboutMe.toUpperCase("arman"));
-console.log(aboutMe.toUpperCase());
+console.log(aboutMe.toUpperCase()); // nothing changes even if you leave it blank
 console.log(aboutMe.toLowerCase("arman"));
-console.log(aboutMe.toLowerCase());
-console.log(aboutMe.toLowerCase());
+console.log(aboutMe.toLowerCase()); // nothing changes even if you leave it blank
 
 

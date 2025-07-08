@@ -11,7 +11,7 @@ const JsUser = {
     "full name": "Arman Jangra",
     [mySym]: "mykey1",
     age: 18,
-    location: "Jaipur",
+    location: "ahmedabad",
     email: "arman@google.com",
     isLoggedIn: false,
     lastLoginDays: ["Monday", "Saturday"]

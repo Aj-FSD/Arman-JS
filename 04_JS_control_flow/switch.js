@@ -1,4 +1,4 @@
-// switch (key) {
+// switch (key) {                         // switch statement (we could use it instead of if elseto write hte code less)
 //     case value:
         
 //         break;
@@ -9,7 +9,7 @@
 
 const month = 3
 
-switch (month) {                          // switch statement (we could use it instead of if elseto write hte code less)
+switch (month) {                          
     case 1:                               // (for numbers)
         console.log("January");
         break;
